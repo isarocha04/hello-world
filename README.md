@@ -5,5 +5,3 @@
 # Resultados
 
 # Conclusão
-
-<img src = "cachorrinho.jpeg">
